@@ -10,8 +10,8 @@ Wu, H., Bailey, Chris., Rasoulinejad, Parham., and Li, S., 2017.
   Medical Image Computing and Computer Assisted Intervention:127-135.
   
 Preperation:
-  1. Upload dataset to your google drive\\
-  2. Change all the file paths in CSC2621Project.ipnb\\
+  1. Upload dataset to your google drive<br />
+  2. Change all the file paths in CSC2621Project.ipnb<br />
 
 Results can be reproduced by running all cells in order, outputs may be different each time. 
 Responsibility of each cell:
