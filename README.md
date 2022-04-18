@@ -6,8 +6,8 @@ Preprocessing is included in the code, so no extra preprocessing to the dataset 
 
 Cite dataset:
 Wu, H., Bailey, Chris., Rasoulinejad, Parham., and Li, S., 2017.<br />
-  Automatic landmark estimation for adolescent idiopathic scoliosis assessment using boostnet.<br />
-  Medical Image Computing and Computer Assisted Intervention:127-135.
+  &nbspAutomatic landmark estimation for adolescent idiopathic scoliosis assessment using boostnet.<br />
+  &nbspMedical Image Computing and Computer Assisted Intervention:127-135.
   
 Preperation:
   1. Upload dataset to your google drive<br />
