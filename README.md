@@ -2,7 +2,8 @@
 Code and Documentation for CSC2621 final project
 
 Dataset can be obtained from http://spineweb.digitalimaginggroup.ca/Index.php?n=Main.Datasets, dataset 16<br />
-Preprocessing is included in the code, so no extra preprocessing to the dataset is needed.<br />
+Data augmentation is in a separate file called dataAugmentation.py<br />
+Preprocessing (except data augmentation) is included in the code, so no extra preprocessing to the dataset is needed.<br />
 
 Cite dataset:
 Wu, H., Bailey, Chris., Rasoulinejad, Parham., and Li, S., 2017.<br />
@@ -10,8 +11,10 @@ Wu, H., Bailey, Chris., Rasoulinejad, Parham., and Li, S., 2017.<br />
   &nbsp;&nbsp;&nbsp;&nbsp;Medical Image Computing and Computer Assisted Intervention:127-135.
   
 Preperation:
-  1. Upload dataset to your google drive<br />
-  2. Change all the file paths in CSC2621Project.ipnb<br />
+  1. Run fixDataLandmarkError.py to correct errors in the GT landmark file<br />
+  2. Run dataAugmentation.py in local machine to augment the data<br />
+  3. Upload augmented dataset to your google drive<br />
+  4. Change all the file paths in CSC2621Project.ipnb<br />
 
 Results can be reproduced by running all cells in order, outputs may be different each time. 
 Responsibility of each cell:<br />
